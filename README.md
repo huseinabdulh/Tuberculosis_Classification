@@ -1,7 +1,7 @@
 # Tuberculosis_Classification
 
 
-## Github Link
+## Skripsi Husein Abdul Hamid
 
 [Klik Here](https://github.com/huseinabdulh/Tuberculosis_Classification)
 
@@ -23,6 +23,6 @@ Dalam penyusunan dataset ini menggunakan dataset yang didapatkan dari kaggle [XR
 ## Contributor
 Husein Abdul Hamid - 201810370311202
 
-Adhigana Priyatama - 201810370311212
+
 
 
