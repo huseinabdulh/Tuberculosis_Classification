@@ -3,7 +3,7 @@
 
 ## Github Link
 
-[https://flaskmlmaskdetection.herokuapp.com/](https://github.com/huseinabdulh/Tuberculosis_Classification)
+[Klik Here](https://github.com/huseinabdulh/Tuberculosis_Classification)
 
 
 
