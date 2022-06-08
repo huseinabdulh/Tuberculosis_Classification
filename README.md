@@ -7,8 +7,8 @@
 
 
 
-![image](![image](https://user-images.githubusercontent.com/49096980/172531196-d8371287-28df-40c7-a7f6-245f7cd84111.png))
-)
+![image](https://user-images.githubusercontent.com/49096980/172531623-73e02010-7680-485c-a48b-5f02bdc7aa19.png)
+
 
 
 ## Deskripsi Dataset 
