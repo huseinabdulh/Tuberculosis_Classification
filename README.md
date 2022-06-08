@@ -6,7 +6,7 @@
 [Klik Here](https://github.com/huseinabdulh/Tuberculosis_Classification)
 
 
-
+## Photo DataSet
 ![image](https://user-images.githubusercontent.com/49096980/172531623-73e02010-7680-485c-a48b-5f02bdc7aa19.png)
 
 
